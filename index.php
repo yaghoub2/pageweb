@@ -11,7 +11,7 @@
     <script type="text/javascript" src="../faces/optimer-normal-normal.js"></script>
 	</head>
 	<body>
-<div><h1>bla bla bla bla</h1></div>
+<div><h1>je suis dans la branche martial</h1></div>
 	</body>
 </html>
 
