@@ -12,6 +12,7 @@
 	</head>
 	<body>
 <div><h1>je suis dans la branche martial</h1></div>
+<div id="imm"><img src="images/helico.jpg"/></div>
 	</body>
 </html>
 
